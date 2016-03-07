@@ -1,0 +1,75 @@
+/* lg */ 
+@media (min-width: 1200px) {
+
+}
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+ 
+}
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+         
+  .ecb_lg {
+    font-size:100px;
+  }
+  .ecb_md {
+    font-size:70px;
+  }
+  .menuzord-brand{
+    display:none;
+  }
+
+}
+
+/* xs */
+@media (max-width: 767px) {
+
+  .ecb_lg {
+      font-size:90px;
+      display:none;
+    }
+  .ecb_md {
+      font-size:50px;
+      display:none;
+    }
+
+}
+
+/* XS Portrait */
+@media (max-width: 480px) {
+
+  .menuzord-responsive .menuzord-brand {
+       margin: 8px 30px 10px 2px;
+    }
+  .menuzord-brand {
+    margin: 12px 10px 0 0;
+    float: left;
+    color: #fff;
+    line-height: 1.3;
+    padding-left:0px !important;
+  }
+  .ecb_logo_text {
+    font-size:40px;
+    color:#ffffff;
+  }
+  .ecb_lg {
+    background-color:red;
+  }
+  .ecb_lg, .ecb_md {
+    display:none;
+  }
+}
+
+
+
+/* Tiny Portrait */
+@media (max-width: 360px) {
+
+  .ecb_logo_text {
+    font-size:36px;
+  }
+}
+
+

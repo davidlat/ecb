@@ -1,0 +1,43 @@
+
+@font-face {
+  font-family: 'Blessed';
+  src: url("../fonts/blessed.ttf");
+  src: url("../fonts/blessed.ttf") format("truetype");
+  font-weight: 400;
+}
+
+.blessed {
+  font-family: "Blessed", sans-serif;
+  text-transform:none;
+  font-weight: 100;
+}
+.ecb_lg {
+  font-size:150px;
+  line-height: 100px;
+}
+.ecb_md {
+  font-size:80px;
+}
+.ecb_logo_text {
+  font-size:40px;
+  color:#ffffff;
+}
+
+.white{
+  color:#ffffff;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
