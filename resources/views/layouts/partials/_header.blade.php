@@ -37,6 +37,9 @@
                         <a href="#dates" class="scrollto">Dates</a>
                     </li>
                     <li>
+                        <a href="#stats" class="scrollto">Stats</a>
+                    </li>
+                    <li>
                         <a href="#music" class="scrollto">Music</a>
                     </li>
                     <li>

@@ -47,42 +47,45 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <div class="row">
-                        <div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="content-box content-box-sm bg-color">
-                                <p class="mb-0 text-center">MARCH 2016</p>
+
+                    <div class="row" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
+                                <p class="mb-0 text-center">MAR 2016</p>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-8 col-md-9">
-                            <h3 class="mt-10 mb-0"><span class="text-uppercase">New website launched</span> 
-                             <em class="text-gray"></em></h3>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">New website launched</span> 
+                             <em class="text-gray hidden-sm">www.eddiecarey.com</em>
                         </div>
                     </div>
-                    <hr class="hr-color mt-0 mb-40">
                     <div class="row mb-60">
                         <div class="col-xs-12 col-sm-8 col-sm-offset-4 col-md-9 col-md-offset-3">
                             <p>We have been working on our new website for some time now and we are sure you will agree it has been worth the wait. The new website, designed by Adaptive Office Services in Newcastle West is a sleek modern site with all the latest features. The site is a 'mobile first' design, it looks as good on youyr mobile phone as it does on large screen computers and tablet computers.
                                 <br />
-                                www.eddiecarey.com
+                                <span class="visible-sm">www.eddiecarey.com</span>
                             </p>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="content-box content-box-sm bg-color">
-                                <p class="mb-0 text-center">FEBURARY 2016</p>
+
+                    <div class="row" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
+                                <p class="mb-0 text-center">FEB 2016</p>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-8 col-md-9">
-                            <h3 class="mt-10 mb-0"><span class="text-uppercase">Red Cow - Series of gigs planned</span> - <em class="text-gray">Dublin</em></h3>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">Red Cow Inn - Shows</span> 
+                             <em class="text-gray hidden-sm">- Dublin</em>
                         </div>
                     </div>
-                    <hr class="hr-color mt-0 mb-40">
                     <div class="row mb-60">
                         <div class="col-xs-12 col-sm-8 col-sm-offset-4 col-md-9 col-md-offset-3">
-                            <p>The Eddie Carey band will be playing a series of gigs at Moran's Red Cow Inn in Dublin starting in May. No strangers to the venue, the band have been asked back to take part in a three-month long country music program running every Saturday night.</p>
+                            <p>The Eddie Carey band will be playing a series of gigs at Moran's Red Cow Inn in Dublin starting in May. No strangers to the venue, the band have been asked back to take part in a three-month long country music program running every Saturday night.
+                            </p>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
@@ -201,83 +204,79 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
 
-                    <div class="row">
-                        <div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="content-box content-box-sm bg-color">
+
+
+                    <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
                                 <p class="mb-0 text-center">17/03/2016</p>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-8 col-md-9">
-                            <h3 class="mt-10 mb-0"><span class="text-uppercase">Red Cow</span> 
-                            - <em class="text-gray">Dublin</em></h3>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">Red Cow Inn</span> 
+                             <em class="text-gray hidden-sm">- Dublin</em>
                         </div>
                     </div>
-                    <hr class="hr-color mt-0 mb-40">
 
-                    <div class="row">
-                        <div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="content-box content-box-sm bg-color">
+                    <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
                                 <p class="mb-0 text-center">19/03/2016</p>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-8 col-md-9">
-                            <h3 class="mt-10 mb-0"><span class="text-uppercase">Hazel Hotel</span> 
-                            - <em class="text-gray">Monasterevin</em></h3>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">Hazel Hotel</span> 
+                             <em class="text-gray hidden-sm">Monasterevin</em>
                         </div>
                     </div>
-                    <hr class="hr-color mt-0 mb-40">
 
-                    <div class="row">
-                        <div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="content-box content-box-sm bg-color">
+                    <div class="row mb-20 scrolling-animation fade-left d3" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
                                 <p class="mb-0 text-center">24/03/2016</p>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-8 col-md-9">
-                            <h3 class="mt-10 mb-0"><span class="text-uppercase">Horans</span> 
-                            - <em class="text-gray">Tralee</em></h3>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">Horans</span> 
+                             <em class="text-gray hidden-sm">Tralee</em>
                         </div>
                     </div>
-                    <hr class="hr-color mt-0 mb-40">
 
-                    <div class="row">
-                        <div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="content-box content-box-sm bg-color">
+                    <div class="row mb-20 scrolling-animation fade-left d4" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
                                 <p class="mb-0 text-center">28/03/2016</p>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-8 col-md-9">
-                            <h3 class="mt-10 mb-0"><span class="text-uppercase">Clanree Hotel</span> 
-                            - <em class="text-gray">Letterkenny</em></h3>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">Clanree Hotel</span> 
+                             <em class="text-gray hidden-sm">Leterrkenny</em>
                         </div>
                     </div>
-                    <hr class="hr-color mt-0 mb-40">
 
-                    <div class="row">
-                        <div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="content-box content-box-sm bg-color">
+                    <div class="row mb-20 scrolling-animation fade-left d5" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
                                 <p class="mb-0 text-center">10/04/2016</p>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-8 col-md-9">
-                            <h3 class="mt-10 mb-0"><span class="text-uppercase">Red Cow</span> 
-                            - <em class="text-gray">Dublin</em></h3>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">Red Cow</span> 
+                             <em class="text-gray hidden-sm">Dublin</em>
                         </div>
                     </div>
-                    <hr class="hr-color mt-0 mb-40">
 
-                    <div class="row">
-                        <div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="content-box content-box-sm bg-color">
+                    <div class="row mb-20 scrolling-animation fade-left d6" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
                                 <p class="mb-0 text-center">14/04/2016</p>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-8 col-md-9">
-                            <h3 class="mt-10 mb-0"><span class="text-uppercase">Saddlers Inn</span> 
-                            - <em class="text-gray">Boyle</em></h3>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">Saddlers Inn</span> 
+                             <em class="text-gray hidden-sm">Boyle</em>
                         </div>
                     </div>
-                    <hr class="hr-color mt-0 mb-40">
 
                 </div>
             </div>
@@ -411,7 +410,7 @@
             </div>
             <div id="grid-1" class="grid grid-gap-sm grid-3-cols fade-in">
                 <div class="grid-item cat-1">
-                    <a href="project-synchronized-all.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/eddie_01.jpg" alt="" />
                             <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
@@ -421,10 +420,10 @@
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
                 <div class="grid-item cat-2">
-                    <a href="project-all-devices-sliders.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/band_03.jpg" alt="" />
                             <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
@@ -434,10 +433,10 @@
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
                 <div class="grid-item cat-1">
-                    <a href="project-all-devices-scrolling.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/eddie_02.jpg" alt="" />
                             <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
@@ -447,49 +446,49 @@
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
                 <div class="grid-item cat-2">
-                    <a href="project-synchronized-macbook-iphone.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/band_01.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Jim Murray</h3>
                                     <p class="">Lead Guitar</p>
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
                 <div class="grid-item cat-1">
-                    <a href="project-macbook-iphone-sliders.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/eddie_03.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Eddie</h3>
                                     <p class="">Country Singer</p>
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
                 <div class="grid-item cat-2">
-                    <a href="project-all-devices-scrolling.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/band_04.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Brian Mullen</h3>
                                     <p class="">Drums</p>
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
                 <div class="grid-item cat-3">
-                    <a href="project-all-devices-sliders.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/gig_01.jpg" alt="" />
                             <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
@@ -499,10 +498,10 @@
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
                 <div class="grid-item cat-3">
-                    <a href="project-synchronized-all.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/gig_03.jpg" alt="" />
                             <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
@@ -512,10 +511,10 @@
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
                 <div class="grid-item cat-3">
-                    <a href="project-desktop-scrolling.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/gig_02.jpg" alt="" />
                             <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
@@ -525,10 +524,10 @@
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
                 <div class="grid-item cat-2">
-                    <a href="project-desktop-scrolling.html">
+                    <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/band_02.jpg" alt="" />
                             <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
@@ -538,7 +537,7 @@
                                 </div>
                             </figcaption>
                         </figure>
-                    </a>
+                    <!-- </a> -->
                 </div>
 
             </div>

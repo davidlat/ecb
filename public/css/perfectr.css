@@ -4206,9 +4206,22 @@ DEVICES STYLES
 }
 
 .scrolling-animation.d4{
-	-webkit-transition-delay:1.2s;
-	transition-delay:1.2s;
+  -webkit-transition-delay:1.2s;
+  transition-delay:1.2s;
 }
+
+.scrolling-animation.d5{
+  -webkit-transition-delay:1.5s;
+  transition-delay:1.5s;
+}
+
+
+.scrolling-animation.d6{
+  -webkit-transition-delay:1.8s;
+  transition-delay:1.8s;
+}
+
+
 
 .touch .scrolling-animation.fade-in,
 .disable-animations .scrolling-animation.fade-in{
