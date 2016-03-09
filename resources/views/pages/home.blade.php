@@ -61,7 +61,7 @@
                     </div>
                     <div class="row mb-60">
                         <div class="col-xs-12 col-sm-8 col-sm-offset-4 col-md-9 col-md-offset-3">
-                            <p>We have been working on our new website for some time now and we are sure you will agree it has been worth the wait. The new website, designed by Adaptive Office Services in Newcastle West is a sleek modern site with all the latest features. The site is a 'mobile first' design, it looks as good on youyr mobile phone as it does on large screen computers and tablet computers.
+                            <p>We have been working on our new website for some time now and we are sure you will agree it has been worth the wait. The new website, designed by Adaptive Office Services in Newcastle West is a sleek modern site with all the latest features. The site is a 'mobile first' design, it looks as good on your mobile phone as it does on large screen computers and tablet computers.
                                 <br />
                                 <span class="visible-sm">www.eddiecarey.com</span>
                             </p>
@@ -142,49 +142,53 @@
                     <h2 class="text-center">Jim <span class="text-color">Murray</span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
                         <img class="img-responsive" src="images/people/band_01.jpg" alt=""  />
-                        <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Jim Murray</h3>
                                 <p class="">(Lead Guitar)</p>
                             </div>
                         </figcaption>
+                        <h3 class="visible-sm-block text-center">Lead Guitar</h3>
                     </figure>
                 </div>
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center">Robert <span class="text-color">Quinlan</span></h2>
+                    <h2 class="text-center"><span style="white-space: nowrap">Robert <font class="text-color">Quinlan</font></span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
                         <img class="img-responsive" src="images/people/band_02.jpg" alt=""  />
-                        <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Robert Quinlan </h3>
                                 <p class="">(Bass)</p>
                             </div>
                         </figcaption>
                     </figure>
+                    <h3 class="visible-sm-block text-center">Bass Player</h3>
                 </div>
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
                     <h2 class="text-center">Stephen <span class="text-color">Keary</span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
                         <img class="img-responsive" src="images/people/band_03.jpg" alt=""  />
-                        <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Stephen Keary</h3>
                                 <p class="">(Piano)</p>
                             </div>
                         </figcaption>
+                        <h3 class="visible-sm-block text-center">Piano</h3>
                     </figure>
                 </div>
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
                     <h2 class="text-center">Brian <span class="text-color">Mullen</span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
                         <img class="img-responsive" src="images/people/band_04.jpg" alt=""  />
-                        <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Brian Mullen</h3>
                                 <p class="">(Drums)</p>
                             </div>
                         </figcaption>
                     </figure>
+                    <h3 class="visible-sm-block text-center">Drums</h3>
                 </div>  
             </div>
         </div>
@@ -363,9 +367,9 @@
                             </li>7
                             <li>
                                 <div class="videoWrapper">
-                                    <iframe width="600" height="338" src="https://www.youtube.com/embed/IxcK46vvFBE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                                    <iframe width="600" height="338" src="https://www.youtube.com/embed/cbbCWv7s-Cg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                                 </div>
-                                <span class="text-color text-bold">Help Yourself</span>
+                                <span class="text-color text-bold">Seashores Of Old Mexico</span>
                             </li>
                             <li>
                                 <div class="videoWrapper">
@@ -413,7 +417,7 @@
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/eddie_01.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Eddie</h3>
                                     <p class="">Country Singer</p>
@@ -426,7 +430,7 @@
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/band_03.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Stephen Keary</h3>
                                     <p class="">Piano</p>
@@ -439,7 +443,7 @@
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/eddie_02.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Eddie</h3>
                                     <p class="">Country Singer</p>
@@ -491,7 +495,7 @@
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/gig_01.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Gig</h3>
                                     <p class="">Red Cow</p>
@@ -504,7 +508,7 @@
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/gig_03.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Gig</h3>
                                     <p class="">Dolans</p>
@@ -517,7 +521,7 @@
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/gig_02.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Gig</h3>
                                     <p class="">Horans</p>
@@ -530,7 +534,7 @@
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/band_02.jpg" alt="" />
-                            <figcaption class="hover-mask hover-mask-color hover-mask-zoom-out">
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Robert Quinlan</h3>
                                     <p class="">Bass</p>
