@@ -2,6 +2,16 @@
 
 @section('content')
 
+    <!-- FB PLUGIN SCRIPT -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=383073861706852";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
     <!-- HEADER -->
     <header id="home" class="bg-image fixed-bg window-height overlay-on-scroll parallax-bg" data-stellar-background-ratio=".5" style="background-image:url(images/background/guitar-bg.jpg);">
         <div class="middle-align-content">
@@ -32,10 +42,7 @@
         </div>
     </div>
 
-
-
     <hr class=""/>
-
 
     <!-- NEWS -->
     <div id="news" class="bg-light pt-120 mb-100">
@@ -85,7 +92,25 @@
                             </p>
                         </div>
                     </div>
-
+                </div>
+            </div>
+            <div class="row"> <!-- FB page plugin row -->
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="col-lg-8 col-md-8 col-sm-7">
+                        <!-- Follow page panel -->
+                        <div class="fb-page" data-href="https://www.facebook.com/EddieCareyBand/" data-tabs="timeline" data-width="500" data-hide-cta="true" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                            <div class="fb-xfbml-parse-ignore">
+                                <blockquote cite="https://www.facebook.com/EddieCareyBand/">
+                                    <a href="https://www.facebook.com/EddieCareyBand/">Eddie Carey Band</a>
+                                </blockquote>
+                            </div>
+                        </div>          
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-5 mt-20" style="padding-left:20px;"> 
+                        <!-- Follow button -->     
+                        <div class="fb-follow" data-href="https://www.facebook.com/EddieCareyBand/timeline" data-width="200" data-layout="standard" data-show-faces="true">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -364,7 +389,7 @@
                                     <iframe width="600" height="338" src="https://www.youtube.com/embed/io-dpfHNd3A?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                                 </div>
                                 <span class="text-color text-bold">Hold You In My Arms</span>
-                            </li>7
+                            </li>
                             <li>
                                 <div class="videoWrapper">
                                     <iframe width="600" height="338" src="https://www.youtube.com/embed/cbbCWv7s-Cg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
