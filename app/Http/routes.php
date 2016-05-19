@@ -15,12 +15,24 @@ Route::get('/', function () {
     return view('pages.home');
 });
 
+Route::get('/1', function () {
+    return view('pages.home');
+});
+
 Route::get('/2', function () {
     return view('pages.home02');
 });
 
 Route::get('/3', function () {
     return view('pages.home03');
+});
+
+Route::get('/4', function () {
+    return view('pages.home04');
+});
+
+Route::get('/5', function () {
+    return view('pages.home05');
 });
 
 

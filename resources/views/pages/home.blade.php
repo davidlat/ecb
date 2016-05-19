@@ -2,6 +2,16 @@
 
 @section('content')
 
+<?php
+
+// $img = 'eddie01.jpg';
+
+// if(isset($_GET['img'])){
+//     $img = $_GET['img']; 
+// }
+// echo $img;
+?>
+
     <!-- FB PLUGIN SCRIPT -->
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
@@ -13,11 +23,11 @@
     }(document, 'script', 'facebook-jssdk'));</script>
 
     <!-- HEADER -->
-    <header id="home" class="bg-image fixed-bg window-height overlay-on-scroll parallax-bg" data-stellar-background-ratio=".5" style="background-image:url(images/background/guitar-bg.jpg);">
+    <header id="home" class="bg-image fixed-bg window-height overlay-on-scroll parallax-bg" data-stellar-background-ratio=".5" style="background-image:url(images/background/eddie02.jpg);">
         <div class="middle-align-content">
             <div class="container text-lg parallax-move-down">         
                 <!-- <h2 class="blessed ecb_md scrolling-animation fade-down d2">the</h2> -->
-                <h1 class="blessed ecb_lg scrolling-animation scale-in">Eddie Carey</h1>
+                <h1 class="blessed ecb_lg scrolling-animation scale-in" style="color:#E6C828;color:#D87300;">Eddie Carey</h1>
                 <h2 class="blessed ecb_md scrolling-animation fade-down d2">and the EC band</h2>
                 <!-- <p class="text-lg scrolling-animation fade-up d2">to the <span class="text-color">Next Level</span></p> -->
             </div>
@@ -58,7 +68,7 @@
                     <div class="row" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">MAR 2016</p>
+                                <p class="mb-0 text-center">JUN 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -78,7 +88,7 @@
                     <div class="row" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">FEB 2016</p>
+                                <p class="mb-0 text-center">JUL 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -139,7 +149,7 @@
                 </div>
                 <div class="col-lg-5 scrolling-animation fade-left d1">
                     <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/eddie_pose.jpg" alt=""  />
+                        <img class="img-responsive" src="images/people/eddie_pose02.jpg" alt=""  />
                         <figcaption class="hidden hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Eddie Carey</h3>
@@ -238,7 +248,7 @@
                     <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">17/03/2016</p>
+                                <p class="mb-0 text-center">17/06/2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -250,7 +260,7 @@
                     <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">19/03/2016</p>
+                                <p class="mb-0 text-center">19/06/2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -262,7 +272,7 @@
                     <div class="row mb-20 scrolling-animation fade-left d3" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">24/03/2016</p>
+                                <p class="mb-0 text-center">24/06/2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -274,7 +284,7 @@
                     <div class="row mb-20 scrolling-animation fade-left d4" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">28/03/2016</p>
+                                <p class="mb-0 text-center">28/06/2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -286,7 +296,7 @@
                     <div class="row mb-20 scrolling-animation fade-left d5" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">10/04/2016</p>
+                                <p class="mb-0 text-center">10/06/2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -298,7 +308,7 @@
                     <div class="row mb-20 scrolling-animation fade-left d6" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">14/04/2016</p>
+                                <p class="mb-0 text-center">14/06/2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -315,7 +325,7 @@
 
 
     <!-- STATISTICS -->
-    <div id="stats" class="bg-image pt-120 pb-80 fixed-bg parallax-bg" data-stellar-background-ratio=".5"  style="background-image:url(images/background/guitar-bg.jpg);">
+    <div id="stats" class="bg-image pt-120 pb-80 fixed-bg parallax-bg" data-stellar-background-ratio=".5"  style="background-image:url(images/background/guitar.jpg);">
         <div class="container">
             <div class="scrolling-animation fade-up">
                 <h2 class="text-center text-lg">Playing by <span class="text-color">Numbers</span></h2>

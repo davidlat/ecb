@@ -23,7 +23,7 @@
     }(document, 'script', 'facebook-jssdk'));</script>
 
     <!-- HEADER -->
-    <header id="home" class="bg-image fixed-bg window-height overlay-on-scroll parallax-bg" data-stellar-background-ratio=".5" style="background-image:url(images/background/eddie03.jpg);">
+    <header id="home" class="bg-image fixed-bg window-height overlay-on-scroll parallax-bg" data-stellar-background-ratio=".5" style="background-image:url(images/background/eddie04.jpg);">
         <div class="middle-align-content">
             <div class="container text-lg parallax-move-down">         
                 <!-- <h2 class="blessed ecb_md scrolling-animation fade-down d2">the</h2> -->

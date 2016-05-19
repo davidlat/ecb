@@ -19,9 +19,11 @@
                                          
                                     <h2 class="text-uppercase text-bold scrolling-animation fade-up">Booking Information</h2>
                                     <div class="scrolling-animation fade-up d1">
-                                        <p>Diamond Promotions</p>
-                                        <p>087 3948701</p>
-                                        <p>diamondpromotions2013@gmail.com</p>
+                                        <p>JD Promotions</p>
+                                        <p>Republic of Ireland: +44 7884 033323</p>
+                                        <p>Northern Ireland & UK 07884 033323</p>
+
+                                        <p>sales@jdpromotions.com</p>
                                     </div>
                                     
                                 </div>
