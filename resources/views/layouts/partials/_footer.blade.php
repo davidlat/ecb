@@ -21,7 +21,7 @@
                                     <div class="scrolling-animation fade-up d1">
                                         <p>JD Promotions</p>
                                         <p>Republic of Ireland: +44 7884 033323</p>
-                                        <p>Northern Ireland & UK 07884 033323</p>
+                                        <p>Northern Ireland & UK: 07884 033323</p>
 
                                         <p>sales@jdpromotions.com</p>
                                     </div>
