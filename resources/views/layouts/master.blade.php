@@ -5,9 +5,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="author" content="Adaptive Office Services" />
-        <meta name="Description" content="The Eddie Carey Band">
-        <meta name="keywords" content="The Eddie Carey Band">
-        <title>The Eddie Carey Band</title>
+        <meta name="Description" content="Eddie Carey Music">
+        <meta name="keywords" content="Eddie Carey Music">
+        <title>Eddie Carey Music</title>
 
         <!-- Favicons -->
         <link rel="shortcut icon" href="{{{ asset('/images/favicon.ico') }}}">

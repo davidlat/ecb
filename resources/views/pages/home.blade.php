@@ -176,7 +176,7 @@
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
                     <h2 class="text-center">Jim <span class="text-color">Murray</span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/member_01.jpg" alt=""  />
+                        <img class="img-responsive" src="images/people/member_02.jpg" alt=""  />
                         <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Jim Murray</h3>
@@ -189,7 +189,7 @@
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
                     <h2 class="text-center"><span style="white-space: nowrap">Robert <font class="text-color">Quinlan</font></span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/member_02.jpg" alt=""  />
+                        <img class="img-responsive" src="images/people/member_01.jpg" alt=""  />
                         <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Robert Quinlan </h3>
@@ -198,6 +198,19 @@
                         </figcaption>
                     </figure>
                     <h3 class="visible-sm-block text-center">Bass Player</h3>
+                </div>
+                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
+                    <h2 class="text-center">Brian <span class="text-color">Mullen</span></h2>
+                    <figure class="hover-mask-parent img-hover-zoom" >
+                        <img class="img-responsive" src="images/people/member_04.jpg" alt=""  />
+                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
+                            <div class="hover-mask-content text-center">
+                                <h3 class="mb-10 text-bold">Brian Mullen</h3>
+                                <p class="">(Drums)</p>
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <h3 class="visible-sm-block text-center">Drums</h3>
                 </div>
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
                     <h2 class="text-center">Stephen <span class="text-color">Keary</span></h2>
@@ -212,19 +225,7 @@
                         <h3 class="visible-sm-block text-center">Piano</h3>
                     </figure>
                 </div>
-                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center">Brian <span class="text-color">Mullen</span></h2>
-                    <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/member_04.jpg" alt=""  />
-                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                            <div class="hover-mask-content text-center">
-                                <h3 class="mb-10 text-bold">Brian Mullen</h3>
-                                <p class="">(Drums)</p>
-                            </div>
-                        </figcaption>
-                    </figure>
-                    <h3 class="visible-sm-block text-center">Drums</h3>
-                </div>  
+                  
             </div>
         </div>
     </div>
