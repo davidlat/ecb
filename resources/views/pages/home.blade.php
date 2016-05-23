@@ -176,7 +176,7 @@
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
                     <h2 class="text-center">Jim <span class="text-color">Murray</span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/band_01.jpg" alt=""  />
+                        <img class="img-responsive" src="images/people/member_01.jpg" alt=""  />
                         <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Jim Murray</h3>
@@ -189,7 +189,7 @@
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
                     <h2 class="text-center"><span style="white-space: nowrap">Robert <font class="text-color">Quinlan</font></span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/band_02.jpg" alt=""  />
+                        <img class="img-responsive" src="images/people/member_02.jpg" alt=""  />
                         <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Robert Quinlan </h3>
@@ -202,7 +202,7 @@
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
                     <h2 class="text-center">Stephen <span class="text-color">Keary</span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/band_03.jpg" alt=""  />
+                        <img class="img-responsive" src="images/people/member_03.jpg" alt=""  />
                         <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Stephen Keary</h3>
@@ -215,7 +215,7 @@
                 <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
                     <h2 class="text-center">Brian <span class="text-color">Mullen</span></h2>
                     <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/band_04.jpg" alt=""  />
+                        <img class="img-responsive" src="images/people/member_04.jpg" alt=""  />
                         <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Brian Mullen</h3>
@@ -365,14 +365,11 @@
             </div>
             <div class="row mt-40">
                 <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
-                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/128771589&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-                </div>    
+                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265563736&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+                </div> 
             </div>
-            <div class="row mt-40">
-                <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
-                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/57649244&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-                </div>    
-            </div>
+            <p class="text-gray text-center">Duet with Lisa Stanley</p>
+
         </div>
     </div>
 
@@ -444,7 +441,7 @@
                     <li class="active filter-button scrolling-animation fade-right d3" data-filter="*">All</li>
                     <li class="filter-button scrolling-animation fade-right d2" data-filter=".cat-1">Eddie</li>
                     <li class="filter-button scrolling-animation fade-right d1" data-filter=".cat-2">EC Band</li>
-                    <li class="filter-button scrolling-animation fade-right" data-filter=".cat-3">Performance</li>
+                    <li class="filter-button scrolling-animation fade-right" data-filter=".cat-3">Out & About</li>
                 </ul>
             </div>
             <div id="grid-1" class="grid grid-gap-sm grid-3-cols fade-in">
@@ -454,8 +451,8 @@
                             <img class="img-responsive" src="images/people/eddie_01.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Eddie</h3>
-                                    <p class="">Country Singer</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">www.eddiecarey.com</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -467,8 +464,8 @@
                             <img class="img-responsive" src="images/people/band_03.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Stephen Keary</h3>
-                                    <p class="">Piano</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey Band</h3>
+                                    <p class="">Desmond Castle - Newcastle West</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -480,8 +477,8 @@
                             <img class="img-responsive" src="images/people/eddie_02.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Eddie</h3>
-                                    <p class="">Country Singer</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">www.eddiecarey.com</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -493,8 +490,8 @@
                             <img class="img-responsive" src="images/people/band_01.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Jim Murray</h3>
-                                    <p class="">Lead Guitar</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey Band</h3>
+                                    <p class="">Newcastle West</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -506,21 +503,8 @@
                             <img class="img-responsive" src="images/people/eddie_03.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Eddie</h3>
-                                    <p class="">Country Singer</p>
-                                </div>
-                            </figcaption>
-                        </figure>
-                    <!-- </a> -->
-                </div>
-                <div class="grid-item cat-2">
-                    <!-- <a href=""> -->
-                        <figure class="hover-mask-parent img-hover-zoom">
-                            <img class="img-responsive" src="images/people/band_04.jpg" alt="" />
-                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                                <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Brian Mullen</h3>
-                                    <p class="">Drums</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">www.eddiecarey.com</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -529,11 +513,11 @@
                 <div class="grid-item cat-3">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
-                            <img class="img-responsive" src="images/people/gig_01.jpg" alt="" />
+                            <img class="img-responsive" src="images/people/oao_01.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Gig</h3>
-                                    <p class="">Red Cow</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">Out & About</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -542,11 +526,11 @@
                 <div class="grid-item cat-3">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
-                            <img class="img-responsive" src="images/people/gig_03.jpg" alt="" />
+                            <img class="img-responsive" src="images/people/oao_02.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Gig</h3>
-                                    <p class="">Dolans</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">Out & About</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -555,11 +539,11 @@
                 <div class="grid-item cat-3">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
-                            <img class="img-responsive" src="images/people/gig_02.jpg" alt="" />
+                            <img class="img-responsive" src="images/people/oao_03.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Gig</h3>
-                                    <p class="">Horans</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">Out & About</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -571,8 +555,8 @@
                             <img class="img-responsive" src="images/people/band_02.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Robert Quinlan</h3>
-                                    <p class="">Bass</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey Band</h3>
+                                    <p class="">Live</p>
                                 </div>
                             </figcaption>
                         </figure>
