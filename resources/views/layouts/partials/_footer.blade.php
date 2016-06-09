@@ -20,15 +20,12 @@
                                     <h2 class="text-uppercase text-bold scrolling-animation fade-up">Booking Information</h2>
                                     <div class="scrolling-animation fade-up d1">
                                         <p>
-                                        John Casey &nbsp;&nbsp;&nbsp;&nbsp;   JDP <br />
+                                        John Casey &nbsp;-&nbsp; JD Promotions <br />
                                         21 Mullaghadun Lane<br />
                                         Dungannon<br />
                                         Co. Tyrone<br />
-                                        N.Ireland BT71 6LH<br />
-                                        Tel from (ROI) 048 8772 5951<br />
-                                        Tel from (NI) 028  8772 5951<br />
-                                        Mob 07884 033323<br />
-                                        Mob 07751 485835
+                                        BT71 6LH<br />
+                                        Tel Tel 028 8772 5951 or 07884 033323/ 07751 485835
                                         </p>
 
                                         <p>sales@jdpromotions.com</p>

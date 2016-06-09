@@ -31,9 +31,6 @@
                         <a href="#about" class="scrollto">About</a>
                     </li>
                     <li>
-                        <a href="#band" class="scrollto">Band</a>
-                    </li>
-                    <li>
                         <a href="#dates" class="scrollto">Dates</a>
                     </li>
                     <li>

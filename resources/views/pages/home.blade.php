@@ -78,7 +78,7 @@
                     </div>
                     <div class="row mb-60">
                         <div class="col-xs-12 col-sm-8 col-sm-offset-4 col-md-9 col-md-offset-3">
-                            <p>We have been working on our new website for some time now and we are sure you will agree it has been worth the wait. The new website, designed by Adaptive Office Services in Newcastle West is a sleek modern site with all the latest features. The site is a 'mobile first' design, it looks as good on your mobile phone as it does on large screen computers and tablet computers.
+                            <p>We have been working on our new website for some time now and we are sure you will agree it has been worth the wait. The new website, designed by Adaptive Office Services in Newcastle West is a sleek modern site with all the latest features. 
                                 <br />
                                 <span class="visible-sm">www.eddiecarey.com</span>
                             </p>
@@ -88,17 +88,17 @@
                     <div class="row" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">JUL 2016</p>
+                                <p class="mb-0 text-center">JUN 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Red Cow Inn - Shows</span> 
-                             <em class="text-gray hidden-sm">- Dublin</em>
+                            <span class="text-uppercase">New music</span> 
+                             <em class="text-gray hidden-sm"></em>
                         </div>
                     </div>
                     <div class="row mb-60">
                         <div class="col-xs-12 col-sm-8 col-sm-offset-4 col-md-9 col-md-offset-3">
-                            <p>The Eddie Carey band will be playing a series of gigs at Moran's Red Cow Inn in Dublin starting in May. No strangers to the venue, the band have been asked back to take part in a three-month long country music program running every Saturday night.
+                            <p>Eddie and the band have been very busy rehearsing new song's getting them just right for the launch. The dance programme  is made of  slow set's as well  as Eddie's big Ballad's and old favourites with a good splash of Jiving & Rock
                             </p>
                         </div>
                     </div>
@@ -163,74 +163,6 @@
     </div>
     
 
-    
-    <!-- BAND -->
-    <div id="band" class="bg-light pt-120 pb-80">
-        <div class="container">
-            <div class="scrolling-animation fade-up">
-                <h2 class="text-lg text-center">Band <span class="text-color">Members</span></h2>
-                <hr class="hr-gray hr-center hr-sm hr-bold mb-20">
-                <p class="text-gray text-center mb-80">Here is the current Eddie Carey band line-up</p>
-            </div>
-            <div class="row">
-                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center">Jim <span class="text-color">Murray</span></h2>
-                    <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/member_02.jpg" alt=""  />
-                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                            <div class="hover-mask-content text-center">
-                                <h3 class="mb-10 text-bold">Jim Murray</h3>
-                                <p class="">(Lead Guitar)</p>
-                            </div>
-                        </figcaption>
-                        <h3 class="visible-sm-block text-center">Lead Guitar</h3>
-                    </figure>
-                </div>
-                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center"><span style="white-space: nowrap">Robert <font class="text-color">Quinlan</font></span></h2>
-                    <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/member_01.jpg" alt=""  />
-                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                            <div class="hover-mask-content text-center">
-                                <h3 class="mb-10 text-bold">Robert Quinlan </h3>
-                                <p class="">(Bass)</p>
-                            </div>
-                        </figcaption>
-                    </figure>
-                    <h3 class="visible-sm-block text-center">Bass Player</h3>
-                </div>
-                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center">Brian <span class="text-color">Mullen</span></h2>
-                    <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/member_04.jpg" alt=""  />
-                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                            <div class="hover-mask-content text-center">
-                                <h3 class="mb-10 text-bold">Brian Mullen</h3>
-                                <p class="">(Drums)</p>
-                            </div>
-                        </figcaption>
-                    </figure>
-                    <h3 class="visible-sm-block text-center">Drums</h3>
-                </div>
-                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center">Stephen <span class="text-color">Keary</span></h2>
-                    <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/member_03.jpg" alt=""  />
-                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                            <div class="hover-mask-content text-center">
-                                <h3 class="mb-10 text-bold">Stephen Keary</h3>
-                                <p class="">(Piano)</p>
-                            </div>
-                        </figcaption>
-                        <h3 class="visible-sm-block text-center">Piano</h3>
-                    </figure>
-                </div>
-                  
-            </div>
-        </div>
-    </div>
-
-
     <hr class=""/>
 
     <!-- DATES -->
@@ -249,74 +181,28 @@
                     <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">17/06/2016</p>
+                                <p class="mb-0 text-center">01/08/2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Red Cow Inn</span> 
-                             <em class="text-gray hidden-sm">- Dublin</em>
+                            <span class="text-uppercase">Harvest & Country Festival</span> 
+                             <em class="text-gray hidden-sm">- Thurles</em>
                         </div>
                     </div>
 
                     <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">19/06/2016</p>
+                                <p class="mb-0 text-center"></p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Hazel Hotel</span> 
-                             <em class="text-gray hidden-sm">Monasterevin</em>
+                            <span class="text-uppercase">SPIL Festival</span> 
+                             <em class="text-gray hidden-sm">Wexford</em>
                         </div>
                     </div>
-
-                    <div class="row mb-20 scrolling-animation fade-left d3" style="padding: 10px;font-size:20px;">
-                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
-                            <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">24/06/2016</p>
-                            </div>
-                        </div>
-                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Horans</span> 
-                             <em class="text-gray hidden-sm">Tralee</em>
-                        </div>
-                    </div>
-
-                    <div class="row mb-20 scrolling-animation fade-left d4" style="padding: 10px;font-size:20px;">
-                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
-                            <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">28/06/2016</p>
-                            </div>
-                        </div>
-                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Clanree Hotel</span> 
-                             <em class="text-gray hidden-sm">Leterrkenny</em>
-                        </div>
-                    </div>
-
-                    <div class="row mb-20 scrolling-animation fade-left d5" style="padding: 10px;font-size:20px;">
-                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
-                            <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">10/06/2016</p>
-                            </div>
-                        </div>
-                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Red Cow</span> 
-                             <em class="text-gray hidden-sm">Dublin</em>
-                        </div>
-                    </div>
-
-                    <div class="row mb-20 scrolling-animation fade-left d6" style="padding: 10px;font-size:20px;">
-                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
-                            <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">14/06/2016</p>
-                            </div>
-                        </div>
-                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Saddlers Inn</span> 
-                             <em class="text-gray hidden-sm">Boyle</em>
-                        </div>
-                    </div>
+                    <br /><br />
+                    <p>Other dates to be confirmed</p>
 
                 </div>
             </div>
@@ -339,15 +225,15 @@
                     <h2 class="text-bold text-lg">Musicians</h2>
                 </div>
                 <div class="col-md-3 mb-60">
-                    <div class="progress-circle progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="12" data-speed="4000"></span></div>
+                    <div class="progress-circle progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="3" data-speed="4000"></span></div>
                     <h2 class="text-bold text-lg">Tours</h2>
                 </div>
                 <div class="col-md-3 mb-60">
-                    <div class="progress-circle progress-circle-plus progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="130" data-speed="5000"></span></div>
+                    <div class="progress-circle progress-circle-plus progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="10" data-speed="5000"></span></div>
                     <h2 class="text-bold text-lg">Songs</h2>
                 </div>
                 <div class="col-md-3 mb-60">
-                    <div class="progress-circle progress-circle-plus progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="160" data-speed="6000"></span></div>
+                    <div class="progress-circle progress-circle-plus progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="25" data-speed="6000"></span></div>
                     <h2 class="text-bold text-lg">Gigs</h2>
                 </div>
             </div>
@@ -366,9 +252,26 @@
             </div>
             <div class="row mt-40">
                 <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
+                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268377370&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+                </div> 
+            </div>
+            <div class="row mt-40">
+                <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
+                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268377524&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+                </div> 
+            </div>
+            <div class="row mt-40">
+                <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
+                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268377626&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+                </div> 
+            </div>            
+            <div class="row mt-40">
+                <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
                     <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265563736&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
                 </div> 
             </div>
+
+
             <p class="text-gray text-center">Duet with Lisa Stanley</p>
 
         </div>
@@ -568,6 +471,31 @@
         </div>
     </div>
     
+
+    <hr class=""/>
+
+    <!-- SPONSOR -->
+    <div id="news" class="bg-light pt-60 mb-60">
+        <div class="container">
+            <div class="scrolling-animation fade-up">
+                <h2 class="text-lg text-center">Main <span class="text-color">Sponsor</span></h2>
+                <hr class="hr-gray hr-center hr-sm hr-bold mb-0">
+                <p class="text-gray text-center mb-80">JDP Graphic Design and Print</p>
+            </div>
+            <div class="row col-sm-10 col-sm-offset-1" >
+
+                <p class="mb-0 text-center">
+                    JDP Graphic Design and print are based in Dungannon  Co. Tyrone and were started by Don Casey   in1990.
+Back then we were initially  a graphic design studio  but due to overwhelming demand we installed one of the first digital printers in Tyrone
+Some 26 years later JDP print everything  Business Stationery, Posters, Flyers , Pop up Stands, Backdrops, Signage, Promotional Merchandise
+T.Shirts & Vehicle Graphics.
+                </p>
+
+            </div>
+        </div>
+    </div>
+
+
 
 
     <!-- CONTACT -->
