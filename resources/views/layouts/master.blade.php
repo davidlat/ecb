@@ -20,7 +20,6 @@
         <link href="{{{ asset('/css/bootstrap.min.css') }}}" rel="stylesheet">
 
         <!-- Library Stylesheets -->
-        <link rel="stylesheet" href="{{{ asset('/css/animsition.min.css') }}}">
         <link rel="stylesheet" href="{{{ asset('/css/font-awesome.css') }}}">
         <link rel="stylesheet" href="{{{ asset('/css/twentytwenty.css') }}}">
 

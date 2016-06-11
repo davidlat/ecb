@@ -1,6 +1,14 @@
 <?php 
 $emailTo = 'david.osullivan@czechone.com';
-$siteTitle = 'Eddie Carey Band';
+$email = 'david.osullivan@czechone.com';
+$siteTitle = 'Eddie Carey Music';
+
+$subject = 'mysub';
+		$body = "Yo";
+		$headers = 'From: ' .' <'.$email.'>' . "\r\n" . 'Reply-To: ' . $email;
+
+		mail($emailTo, $subject, $body, $headers);
+		echo 'Sent';
 
 error_reporting(E_ALL ^ E_NOTICE); // hide all basic notices from PHP
 

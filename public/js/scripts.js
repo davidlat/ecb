@@ -444,7 +444,7 @@ $(document).ready(function(){
 	})
 	
 	$('.contact-form').submit(function() {
-			
+
 		$form = $(this);
 		
 		if($form.hasClass('sending')){
@@ -480,15 +480,24 @@ $(document).ready(function(){
 		if(!hasError){
 			$form.addClass('sending');
 			var formInput = $form.serialize();
-			$.post($form.attr('action'),formInput, function(data){
-				$form.find('.form-success').show();
-				setTimeout(function(){
-					$form.find('.form-success').fadeOut();
-					$form.removeClass('sending');
-				},2000);
+
+			console.log('Sending');	
+			console.log($form.attr('action'));
+
+			// $.post($form.attr('action'),formInput, function(data){
+			// 	$form.find('.form-success').show();
+			// 	setTimeout(function(){
+			// 		$form.find('.form-success').fadeOut();
+			// 		$form.removeClass('sending');
+			// 	},2000);
 				
-				$form[0].reset();
+			// 	$form[0].reset();
+			// });
+			
+			$.post($form.attr('action'),formInput, function(data){
+				console.log(data);
 			});
+
 		}
 		
 		return false;	

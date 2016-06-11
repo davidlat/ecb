@@ -99,11 +99,16 @@
                     <div class="row mb-60">
                         <div class="col-xs-12 col-sm-8 col-sm-offset-4 col-md-9 col-md-offset-3">
                             <p>Eddie and the band have been very busy rehearsing new song's getting them just right for the launch. The dance programme  is made of  slow set's as well  as Eddie's big Ballad's and old favourites with a good splash of Jiving & Rock
+                                <br /><br />
+                                Here is a sample from these latest tracks:
+                                <br /><br />
+                                <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268528051&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
+
             <div class="row"> <!-- FB page plugin row -->
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="col-lg-8 col-md-8 col-sm-7">
@@ -295,6 +300,12 @@
                         <img class="img-responsive img-center" src="images/macbook-single.png" alt=""/>
                         <div class="macbook-mockup-content flexslider controls-lg no-bullet-nav effect-zoom" data-speed="4000">
                           <ul class="slides">
+                            <li>
+                                <div class="videoWrapper">
+                                    <iframe width="600" height="338" src="https://www.youtube.com/embed/B_wFE8UNXoE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                                </div>
+                                <span class="text-color text-bold">I Told You So</span>
+                            </li>
                             <li>
                                 <div class="videoWrapper">
                                     <iframe width="600" height="338" src="https://www.youtube.com/embed/io-dpfHNd3A?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
