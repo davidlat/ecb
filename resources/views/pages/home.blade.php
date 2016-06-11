@@ -186,25 +186,38 @@
                     <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">01/08/2016</p>
+                                <p class="mb-0 text-center">August 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
                             <span class="text-uppercase">Harvest & Country Festival</span> 
                              <em class="text-gray hidden-sm">- Thurles</em>
                         </div>
+                        <div class="col-xs-5 col-sm-4 col-md-3">
+                            &nbsp;
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <font style='font-size:0.8em;'>More information <a style='color:#2898AC;' href="https://www.facebook.com/ThurlesHarvestFestival/posts/610487292444917" target="_blank">here</a>.</font>
+                        </div>    
                     </div>
 
                     <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center"></p>
+                                <p class="mb-0 text-center">August 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
                             <span class="text-uppercase">SPIL Festival</span> 
                              <em class="text-gray hidden-sm">Wexford</em>
                         </div>
+
+                        <div class="col-xs-5 col-sm-4 col-md-3">
+                            &nbsp;
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <font style='font-size:0.8em;'>More information to be announced.</font>
+                        </div>    
                     </div>
                     <br /><br />
                     <p>Other dates to be confirmed</p>
@@ -532,7 +545,9 @@ T.Shirts & Vehicle Graphics.
                         <input type="hidden" name="submitted" id="submitted" value="true" />
                         <p class="form-error empty-fields"><i class="fa fa-exclamation-triangle"></i>Please fill the required fields</p>
                         <p class="form-error email-error"><i class="fa fa-exclamation-triangle"></i>Email looks invalid</p>
-                        <p class="form-success"><i class="fa fa-check"></i>Your message has been sent</p>
+                        <!-- <p class="form-success"><i class="fa fa-check"></i>Your message has been sent</p> -->
+                        <p class="form-success"><p class="form-error empty-fields"><i class="fa fa-exclamation-triangle"></i>ERROR: PLease send email to sales@jdpromotions.com</p></p>
+
                     </form>
                     
                 </div>

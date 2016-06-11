@@ -5,10 +5,13 @@ $siteTitle = 'Eddie Carey Music';
 
 $subject = 'mysub';
 		$body = "Yo";
-		$headers = 'From: ' .' <'.$email.'>' . "\r\n" . 'Reply-To: ' . $email;
+		//$headers = 'From: ' .' <'.$email.'>' . "\r\n" . 'Reply-To: ' . $email;
+		$headers = 'From: david@adaptiveofficeservices.com' . "\r\n";
 
-		mail($emailTo, $subject, $body, $headers);
+		$res = mail($emailTo, $subject, $body, $headers);
 		echo 'Sent';
+		echo $res;
+		var_dump($res);
 
 error_reporting(E_ALL ^ E_NOTICE); // hide all basic notices from PHP
 
