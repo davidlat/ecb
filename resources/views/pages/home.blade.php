@@ -186,7 +186,7 @@
                     <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center"> 1st August 2016</p>
+                                <p class="mb-0 text-center">August 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -219,6 +219,26 @@
                             <font style='font-size:0.8em;'>More information to be announced.</font>
                         </div>    
                     </div>
+                    
+                    <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
+                                <p class="mb-0 text-center">August 2016</p>
+                            </div>
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">Belfast Festival</span> 
+                             <em class="text-gray hidden-sm">Belfast</em>
+                        </div>
+
+                        <div class="col-xs-5 col-sm-4 col-md-3">
+                            &nbsp;
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <font style='font-size:0.8em;'>Coming soon to Donegal, Cookstown, Dublin, Kerry & Wexford</font>
+                        </div>    
+                    </div>
+                    
                     <br /><br />
                     <p>Other dates to be confirmed</p>
 
