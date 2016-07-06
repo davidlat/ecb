@@ -235,12 +235,12 @@
                             &nbsp;
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <font style='font-size:0.8em;'>Coming soon to Donegal, Cookstown, Dublin, Kerry & Wexford</font>
+                            <font style='font-size:0.8em;'>More information to be announced.</font>
                         </div>    
                     </div>
                     
                     <br /><br />
-                    <p>Other dates to be confirmed</p>
+                    <p>Coming soon to Donegal, Cookstown, Dublin, Kerry & Wexford</p>
 
                 </div>
             </div>
