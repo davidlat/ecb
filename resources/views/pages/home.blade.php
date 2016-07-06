@@ -186,7 +186,7 @@
                     <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">August 2016</p>
+                                <p class="mb-0 text-center"> 1st August 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
