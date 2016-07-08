@@ -21,6 +21,7 @@
       js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=383073861706852";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
+    
 
     <!-- HEADER -->
     <header id="home" class="bg-image fixed-bg window-height overlay-on-scroll parallax-bg" data-stellar-background-ratio=".5" style="background-image:url(images/background/eddie02.jpg);">
@@ -113,18 +114,19 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="col-lg-8 col-md-8 col-sm-7">
                         <!-- Follow page panel -->
-                        <div class="fb-page" data-href="https://www.facebook.com/EddieCareyBand/" data-tabs="timeline" data-width="500" data-hide-cta="true" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-                            <div class="fb-xfbml-parse-ignore">
-                                <blockquote cite="https://www.facebook.com/EddieCareyBand/">
-                                    <a href="https://www.facebook.com/EddieCareyBand/">Eddie Carey Band</a>
-                                </blockquote>
-                            </div>
-                        </div>          
+                        
+                        <div class="fb-page" data-href="https://www.facebook.com/Eddie-Carey-the-EC-Band-1735270750078353/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                            <blockquote cite="https://www.facebook.com/Eddie-Carey-the-EC-Band-1735270750078353/" class="fb-xfbml-parse-ignore">
+                              <a href="https://www.facebook.com/Eddie-Carey-the-EC-Band-1735270750078353/">Eddie Carey &amp; the E,C Band</a>
+                            </blockquote>
+                        </div>
+                                  
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-5 mt-20" style="padding-left:20px;"> 
                         <!-- Follow button -->     
-                        <div class="fb-follow" data-href="https://www.facebook.com/EddieCareyBand/timeline" data-width="200" data-layout="standard" data-show-faces="true">
-                        </div>
+                        
+                        <div class="fb-like" data-href="https://www.facebook.com/Eddie-Carey-the-EC-Band-1735270750078353/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+                        
                     </div>
                 </div>
             </div>
