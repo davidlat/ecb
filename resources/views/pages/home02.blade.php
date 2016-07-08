@@ -23,11 +23,11 @@
     }(document, 'script', 'facebook-jssdk'));</script>
 
     <!-- HEADER -->
-    <header id="home" class="bg-image fixed-bg window-height overlay-on-scroll parallax-bg" data-stellar-background-ratio=".5" style="background-image:url(images/background/eddie01.jpg);">
+    <header id="home" class="bg-image fixed-bg window-height overlay-on-scroll parallax-bg" data-stellar-background-ratio=".5" style="background-image:url(images/background/eddie02.jpg);">
         <div class="middle-align-content">
             <div class="container text-lg parallax-move-down">         
                 <!-- <h2 class="blessed ecb_md scrolling-animation fade-down d2">the</h2> -->
-                <h1 class="blessed ecb_lg scrolling-animation scale-in">Eddie Carey</h1>
+                <h1 class="blessed ecb_lg scrolling-animation scale-in" style="color:#E6C828;color:#D87300;">Eddie Carey</h1>
                 <h2 class="blessed ecb_md scrolling-animation fade-down d2">and the EC band</h2>
                 <!-- <p class="text-lg scrolling-animation fade-up d2">to the <span class="text-color">Next Level</span></p> -->
             </div>
@@ -68,7 +68,7 @@
                     <div class="row" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">MAR 2016</p>
+                                <p class="mb-0 text-center">JUN 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
@@ -78,7 +78,7 @@
                     </div>
                     <div class="row mb-60">
                         <div class="col-xs-12 col-sm-8 col-sm-offset-4 col-md-9 col-md-offset-3">
-                            <p>We have been working on our new website for some time now and we are sure you will agree it has been worth the wait. The new website, designed by Adaptive Office Services in Newcastle West is a sleek modern site with all the latest features. The site is a 'mobile first' design, it looks as good on your mobile phone as it does on large screen computers and tablet computers.
+                            <p>We have been working on our new website for some time now and we are sure you will agree it has been worth the wait. The new website, designed by Adaptive Office Services in Newcastle West is a sleek modern site with all the latest features. 
                                 <br />
                                 <span class="visible-sm">www.eddiecarey.com</span>
                             </p>
@@ -88,22 +88,27 @@
                     <div class="row" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">FEB 2016</p>
+                                <p class="mb-0 text-center">JUN 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Red Cow Inn - Shows</span> 
-                             <em class="text-gray hidden-sm">- Dublin</em>
+                            <span class="text-uppercase">New music</span> 
+                             <em class="text-gray hidden-sm"></em>
                         </div>
                     </div>
                     <div class="row mb-60">
                         <div class="col-xs-12 col-sm-8 col-sm-offset-4 col-md-9 col-md-offset-3">
-                            <p>The Eddie Carey band will be playing a series of gigs at Moran's Red Cow Inn in Dublin starting in May. No strangers to the venue, the band have been asked back to take part in a three-month long country music program running every Saturday night.
+                            <p>Eddie and the band have been very busy rehearsing new song's getting them just right for the launch. The dance programme  is made of  slow set's as well  as Eddie's big Ballad's and old favourites with a good splash of Jiving & Rock
+                                <br /><br />
+                                Here is a sample from these latest tracks:
+                                <br /><br />
+                                <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268528051&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
+
             <div class="row"> <!-- FB page plugin row -->
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="col-lg-8 col-md-8 col-sm-7">
@@ -149,7 +154,7 @@
                 </div>
                 <div class="col-lg-5 scrolling-animation fade-left d1">
                     <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/eddie_pose.jpg" alt=""  />
+                        <img class="img-responsive" src="images/people/eddie_pose02.jpg" alt=""  />
                         <figcaption class="hidden hover-mask hover-mask-color hover-mask-zoom-out">
                             <div class="hover-mask-content text-center">
                                 <h3 class="mb-10 text-bold">Eddie Carey</h3>
@@ -162,73 +167,6 @@
         </div>
     </div>
     
-
-    
-    <!-- BAND -->
-    <div id="band" class="bg-light pt-120 pb-80">
-        <div class="container">
-            <div class="scrolling-animation fade-up">
-                <h2 class="text-lg text-center">Band <span class="text-color">Members</span></h2>
-                <hr class="hr-gray hr-center hr-sm hr-bold mb-20">
-                <p class="text-gray text-center mb-80">Here is the current Eddie Carey band line-up</p>
-            </div>
-            <div class="row">
-                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center">Jim <span class="text-color">Murray</span></h2>
-                    <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/band_01.jpg" alt=""  />
-                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                            <div class="hover-mask-content text-center">
-                                <h3 class="mb-10 text-bold">Jim Murray</h3>
-                                <p class="">(Lead Guitar)</p>
-                            </div>
-                        </figcaption>
-                        <h3 class="visible-sm-block text-center">Lead Guitar</h3>
-                    </figure>
-                </div>
-                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center"><span style="white-space: nowrap">Robert <font class="text-color">Quinlan</font></span></h2>
-                    <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/band_02.jpg" alt=""  />
-                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                            <div class="hover-mask-content text-center">
-                                <h3 class="mb-10 text-bold">Robert Quinlan </h3>
-                                <p class="">(Bass)</p>
-                            </div>
-                        </figcaption>
-                    </figure>
-                    <h3 class="visible-sm-block text-center">Bass Player</h3>
-                </div>
-                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center">Stephen <span class="text-color">Keary</span></h2>
-                    <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/band_03.jpg" alt=""  />
-                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                            <div class="hover-mask-content text-center">
-                                <h3 class="mb-10 text-bold">Stephen Keary</h3>
-                                <p class="">(Piano)</p>
-                            </div>
-                        </figcaption>
-                        <h3 class="visible-sm-block text-center">Piano</h3>
-                    </figure>
-                </div>
-                <div class="col-md-3 col-md-offset-0 col-sm-10 col-sm-offset-1 mb-40 scrolling-animation fade-left">
-                    <h2 class="text-center">Brian <span class="text-color">Mullen</span></h2>
-                    <figure class="hover-mask-parent img-hover-zoom" >
-                        <img class="img-responsive" src="images/people/band_04.jpg" alt=""  />
-                        <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                            <div class="hover-mask-content text-center">
-                                <h3 class="mb-10 text-bold">Brian Mullen</h3>
-                                <p class="">(Drums)</p>
-                            </div>
-                        </figcaption>
-                    </figure>
-                    <h3 class="visible-sm-block text-center">Drums</h3>
-                </div>  
-            </div>
-        </div>
-    </div>
-
 
     <hr class=""/>
 
@@ -248,74 +186,61 @@
                     <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">17/03/2016</p>
+                                <p class="mb-0 text-center">August 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Red Cow Inn</span> 
-                             <em class="text-gray hidden-sm">- Dublin</em>
+                            <span class="text-uppercase">Harvest & Country Festival</span> 
+                             <em class="text-gray hidden-sm">- Thurles</em>
                         </div>
+                        <div class="col-xs-5 col-sm-4 col-md-3">
+                            &nbsp;
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <font style='font-size:0.8em;'>More information <a style='color:#2898AC;' href="https://www.facebook.com/ThurlesHarvestFestival/posts/610487292444917" target="_blank">here</a>.</font>
+                        </div>    
                     </div>
 
                     <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">19/03/2016</p>
+                                <p class="mb-0 text-center">August 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Hazel Hotel</span> 
-                             <em class="text-gray hidden-sm">Monasterevin</em>
+                            <span class="text-uppercase">SPIL Festival</span> 
+                             <em class="text-gray hidden-sm">Wexford</em>
                         </div>
-                    </div>
 
-                    <div class="row mb-20 scrolling-animation fade-left d3" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3">
+                            &nbsp;
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <font style='font-size:0.8em;'>More information to be announced.</font>
+                        </div>    
+                    </div>
+                    
+                    <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
                             <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">24/03/2016</p>
+                                <p class="mb-0 text-center">August 2016</p>
                             </div>
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Horans</span> 
-                             <em class="text-gray hidden-sm">Tralee</em>
+                            <span class="text-uppercase">Belfast Festival</span> 
+                             <em class="text-gray hidden-sm">Belfast</em>
                         </div>
-                    </div>
 
-                    <div class="row mb-20 scrolling-animation fade-left d4" style="padding: 10px;font-size:20px;">
-                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
-                            <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">28/03/2016</p>
-                            </div>
+                        <div class="col-xs-5 col-sm-4 col-md-3">
+                            &nbsp;
                         </div>
                         <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Clanree Hotel</span> 
-                             <em class="text-gray hidden-sm">Leterrkenny</em>
-                        </div>
+                            <font style='font-size:0.8em;'>More information to be announced.</font>
+                        </div>    
                     </div>
-
-                    <div class="row mb-20 scrolling-animation fade-left d5" style="padding: 10px;font-size:20px;">
-                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
-                            <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">10/04/2016</p>
-                            </div>
-                        </div>
-                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Red Cow</span> 
-                             <em class="text-gray hidden-sm">Dublin</em>
-                        </div>
-                    </div>
-
-                    <div class="row mb-20 scrolling-animation fade-left d6" style="padding: 10px;font-size:20px;">
-                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
-                            <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">14/04/2016</p>
-                            </div>
-                        </div>
-                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Saddlers Inn</span> 
-                             <em class="text-gray hidden-sm">Boyle</em>
-                        </div>
-                    </div>
+                    
+                    <br /><br />
+                    <p>Coming soon to Donegal, Cookstown, Dublin, Kerry & Wexford</p>
 
                 </div>
             </div>
@@ -325,7 +250,7 @@
 
 
     <!-- STATISTICS -->
-    <div id="stats" class="bg-image pt-120 pb-80 fixed-bg parallax-bg" data-stellar-background-ratio=".5"  style="background-image:url(images/background/guitar-bg.jpg);">
+    <div id="stats" class="bg-image pt-120 pb-80 fixed-bg parallax-bg" data-stellar-background-ratio=".5"  style="background-image:url(images/background/guitar.jpg);">
         <div class="container">
             <div class="scrolling-animation fade-up">
                 <h2 class="text-center text-lg">Playing by <span class="text-color">Numbers</span></h2>
@@ -338,15 +263,15 @@
                     <h2 class="text-bold text-lg">Musicians</h2>
                 </div>
                 <div class="col-md-3 mb-60">
-                    <div class="progress-circle progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="12" data-speed="4000"></span></div>
+                    <div class="progress-circle progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="3" data-speed="4000"></span></div>
                     <h2 class="text-bold text-lg">Tours</h2>
                 </div>
                 <div class="col-md-3 mb-60">
-                    <div class="progress-circle progress-circle-plus progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="130" data-speed="5000"></span></div>
+                    <div class="progress-circle progress-circle-plus progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="10" data-speed="5000"></span></div>
                     <h2 class="text-bold text-lg">Songs</h2>
                 </div>
                 <div class="col-md-3 mb-60">
-                    <div class="progress-circle progress-circle-plus progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="160" data-speed="6000"></span></div>
+                    <div class="progress-circle progress-circle-plus progress-lg progress-bold mb-40 start-on-scroll" data-percent="99"><span class="countTo" data-to="25" data-speed="6000"></span></div>
                     <h2 class="text-bold text-lg">Gigs</h2>
                 </div>
             </div>
@@ -365,14 +290,28 @@
             </div>
             <div class="row mt-40">
                 <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
-                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/128771589&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-                </div>    
+                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268377370&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+                </div> 
             </div>
             <div class="row mt-40">
                 <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
-                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/57649244&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-                </div>    
+                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268377524&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+                </div> 
             </div>
+            <div class="row mt-40">
+                <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
+                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268377626&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+                </div> 
+            </div>            
+            <div class="row mt-40">
+                <div class="col-lg-8 col-lg-offset-2 scrolling-animation fade-up">
+                    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265563736&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+                </div> 
+            </div>
+
+
+            <p class="text-gray text-center">Duet with Lisa Stanley</p>
+
         </div>
     </div>
 
@@ -394,6 +333,12 @@
                         <img class="img-responsive img-center" src="images/macbook-single.png" alt=""/>
                         <div class="macbook-mockup-content flexslider controls-lg no-bullet-nav effect-zoom" data-speed="4000">
                           <ul class="slides">
+                            <li>
+                                <div class="videoWrapper">
+                                    <iframe width="600" height="338" src="https://www.youtube.com/embed/B_wFE8UNXoE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                                </div>
+                                <span class="text-color text-bold">I Told You So</span>
+                            </li>
                             <li>
                                 <div class="videoWrapper">
                                     <iframe width="600" height="338" src="https://www.youtube.com/embed/io-dpfHNd3A?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -444,7 +389,7 @@
                     <li class="active filter-button scrolling-animation fade-right d3" data-filter="*">All</li>
                     <li class="filter-button scrolling-animation fade-right d2" data-filter=".cat-1">Eddie</li>
                     <li class="filter-button scrolling-animation fade-right d1" data-filter=".cat-2">EC Band</li>
-                    <li class="filter-button scrolling-animation fade-right" data-filter=".cat-3">Performance</li>
+                    <li class="filter-button scrolling-animation fade-right" data-filter=".cat-3">Out & About</li>
                 </ul>
             </div>
             <div id="grid-1" class="grid grid-gap-sm grid-3-cols fade-in">
@@ -454,8 +399,8 @@
                             <img class="img-responsive" src="images/people/eddie_01.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Eddie</h3>
-                                    <p class="">Country Singer</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">www.eddiecarey.com</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -467,8 +412,8 @@
                             <img class="img-responsive" src="images/people/band_03.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Stephen Keary</h3>
-                                    <p class="">Piano</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey Band</h3>
+                                    <p class="">Desmond Castle - Newcastle West</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -480,8 +425,8 @@
                             <img class="img-responsive" src="images/people/eddie_02.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Eddie</h3>
-                                    <p class="">Country Singer</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">www.eddiecarey.com</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -493,8 +438,8 @@
                             <img class="img-responsive" src="images/people/band_01.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Jim Murray</h3>
-                                    <p class="">Lead Guitar</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey Band</h3>
+                                    <p class="">Newcastle West</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -506,21 +451,8 @@
                             <img class="img-responsive" src="images/people/eddie_03.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Eddie</h3>
-                                    <p class="">Country Singer</p>
-                                </div>
-                            </figcaption>
-                        </figure>
-                    <!-- </a> -->
-                </div>
-                <div class="grid-item cat-2">
-                    <!-- <a href=""> -->
-                        <figure class="hover-mask-parent img-hover-zoom">
-                            <img class="img-responsive" src="images/people/band_04.jpg" alt="" />
-                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                                <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Brian Mullen</h3>
-                                    <p class="">Drums</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">www.eddiecarey.com</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -529,11 +461,11 @@
                 <div class="grid-item cat-3">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
-                            <img class="img-responsive" src="images/people/gig_01.jpg" alt="" />
+                            <img class="img-responsive" src="images/people/oao_01.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Gig</h3>
-                                    <p class="">Red Cow</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">Out & About</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -542,11 +474,11 @@
                 <div class="grid-item cat-3">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
-                            <img class="img-responsive" src="images/people/gig_03.jpg" alt="" />
+                            <img class="img-responsive" src="images/people/oao_02.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Gig</h3>
-                                    <p class="">Dolans</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">Out & About</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -555,11 +487,11 @@
                 <div class="grid-item cat-3">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
-                            <img class="img-responsive" src="images/people/gig_02.jpg" alt="" />
+                            <img class="img-responsive" src="images/people/oao_03.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Gig</h3>
-                                    <p class="">Horans</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">Out & About</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -571,8 +503,8 @@
                             <img class="img-responsive" src="images/people/band_02.jpg" alt="" />
                             <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
                                 <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Robert Quinlan</h3>
-                                    <p class="">Bass</p>
+                                    <h3 class="mb-10 text-bold">Eddie Carey Band</h3>
+                                    <p class="">Live</p>
                                 </div>
                             </figcaption>
                         </figure>
@@ -583,6 +515,31 @@
         </div>
     </div>
     
+
+    <hr class=""/>
+
+    <!-- SPONSOR -->
+    <div id="news" class="bg-light pt-60 mb-60">
+        <div class="container">
+            <div class="scrolling-animation fade-up">
+                <h2 class="text-lg text-center">Main <span class="text-color">Sponsor</span></h2>
+                <hr class="hr-gray hr-center hr-sm hr-bold mb-0">
+                <p class="text-gray text-center mb-80">JDP Graphic Design and Print</p>
+            </div>
+            <div class="row col-sm-10 col-sm-offset-1" >
+
+                <p class="mb-0 text-center">
+                    JDP Graphic Design and print are based in Dungannon  Co. Tyrone and were started by Don Casey   in1990.
+Back then we were initially  a graphic design studio  but due to overwhelming demand we installed one of the first digital printers in Tyrone
+Some 26 years later JDP print everything  Business Stationery, Posters, Flyers , Pop up Stands, Backdrops, Signage, Promotional Merchandise
+T.Shirts & Vehicle Graphics.
+                </p>
+
+            </div>
+        </div>
+    </div>
+
+
 
 
     <!-- CONTACT -->
@@ -608,7 +565,9 @@
                         <input type="hidden" name="submitted" id="submitted" value="true" />
                         <p class="form-error empty-fields"><i class="fa fa-exclamation-triangle"></i>Please fill the required fields</p>
                         <p class="form-error email-error"><i class="fa fa-exclamation-triangle"></i>Email looks invalid</p>
-                        <p class="form-success"><i class="fa fa-check"></i>Your message has been sent</p>
+                        <!-- <p class="form-success"><i class="fa fa-check"></i>Your message has been sent</p> -->
+                        <p class="form-success"><p class="form-error empty-fields"><i class="fa fa-exclamation-triangle"></i>ERROR: PLease send email to sales@jdpromotions.com</p></p>
+
                     </form>
                     
                 </div>
