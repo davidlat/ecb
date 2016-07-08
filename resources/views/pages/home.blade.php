@@ -115,7 +115,7 @@
                     <div class="col-lg-8 col-md-8 col-sm-7">
                         <!-- Follow page panel -->
                         
-                        <div class="fb-page" data-href="https://www.facebook.com/Eddie-Carey-the-EC-Band-1735270750078353/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                        <div class="fb-page" data-href="https://www.facebook.com/Eddie-Carey-the-EC-Band-1735270750078353/" data-tabs="timeline" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
                             <blockquote cite="https://www.facebook.com/Eddie-Carey-the-EC-Band-1735270750078353/" class="fb-xfbml-parse-ignore">
                               <a href="https://www.facebook.com/Eddie-Carey-the-EC-Band-1735270750078353/">Eddie Carey &amp; the E,C Band</a>
                             </blockquote>
