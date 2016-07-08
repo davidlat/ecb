@@ -406,6 +406,20 @@
                         </figure>
                     <!-- </a> -->
                 </div>
+                
+                <div class="grid-item cat-3">
+                    <!-- <a href=""> -->
+                        <figure class="hover-mask-parent img-hover-zoom">
+                            <img class="img-responsive" src="images/people/oao_01.jpg" alt="" />
+                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
+                                <div class="hover-mask-content text-center">
+                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
+                                    <p class="">Out & About</p>
+                                </div>
+                            </figcaption>
+                        </figure>
+                    <!-- </a> -->
+                </div>
                 <div class="grid-item cat-2 hidden">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
@@ -453,19 +467,6 @@
                                 <div class="hover-mask-content text-center">
                                     <h3 class="mb-10 text-bold">Eddie Carey</h3>
                                     <p class="">www.eddiecarey.com</p>
-                                </div>
-                            </figcaption>
-                        </figure>
-                    <!-- </a> -->
-                </div>
-                <div class="grid-item cat-3">
-                    <!-- <a href=""> -->
-                        <figure class="hover-mask-parent img-hover-zoom">
-                            <img class="img-responsive" src="images/people/oao_01.jpg" alt="" />
-                            <figcaption class="hidden-sm hover-mask hover-mask-color hover-mask-zoom-out">
-                                <div class="hover-mask-content text-center">
-                                    <h3 class="mb-10 text-bold">Eddie Carey</h3>
-                                    <p class="">Out & About</p>
                                 </div>
                             </figcaption>
                         </figure>
