@@ -406,7 +406,7 @@
                         </figure>
                     <!-- </a> -->
                 </div>
-                <div class="grid-item cat-2">
+                <div class="grid-item cat-2 hidden">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/band_03.jpg" alt="" />
@@ -432,7 +432,7 @@
                         </figure>
                     <!-- </a> -->
                 </div>
-                <div class="grid-item cat-2">
+                <div class="grid-item cat-2 hidden">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/band_01.jpg" alt="" />
@@ -497,7 +497,7 @@
                         </figure>
                     <!-- </a> -->
                 </div>
-                <div class="grid-item cat-2">
+                <div class="grid-item cat-2 hidden">
                     <!-- <a href=""> -->
                         <figure class="hover-mask-parent img-hover-zoom">
                             <img class="img-responsive" src="images/people/band_02.jpg" alt="" />
