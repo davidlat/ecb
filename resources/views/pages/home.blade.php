@@ -529,12 +529,23 @@
             </div>
             <div class="row col-sm-10 col-sm-offset-1" >
 
-                <p class="mb-0 text-center">
-                    JDP Graphic Design and print are based in Dungannon  Co. Tyrone and were started by Don Casey   in1990.
-Back then we were initially  a graphic design studio  but due to overwhelming demand we installed one of the first digital printers in Tyrone
-Some 26 years later JDP print everything  Business Stationery, Posters, Flyers , Pop up Stands, Backdrops, Signage, Promotional Merchandise
-T.Shirts & Vehicle Graphics.
-                </p>
+                <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
+                    <div class="col-xs-5 col-sm-4 col-md-3" style="">
+                        <div class="content-box content-box-sm">
+                            <img src="http://www.eddircarey.com/jdp.jpg" />
+                        </div>
+                    </div>
+                    <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="">
+                        <p class="mb-0 text-center">
+                            JDP Graphic Design and print are based in Dungannon  Co. Tyrone and were started by Don Casey   in1990.
+        Back then we were initially  a graphic design studio  but due to overwhelming demand we installed one of the first digital printers in Tyrone
+        Some 26 years later JDP print everything  Business Stationery, Posters, Flyers , Pop up Stands, Backdrops, Signage, Promotional Merchandise
+        T.Shirts & Vehicle Graphics.
+                        </p>        
+                    </div>    
+                </div>
+
+                
 
             </div>
         </div>
