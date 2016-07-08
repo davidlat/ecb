@@ -388,7 +388,7 @@
                 <ul class="list-unstyled list-inline">
                     <li class="active filter-button scrolling-animation fade-right d3" data-filter="*">All</li>
                     <li class="filter-button scrolling-animation fade-right d2" data-filter=".cat-1">Eddie</li>
-                    <li class="filter-button scrolling-animation fade-right d1" data-filter=".cat-2">EC Band</li>
+                    <li class="filter-button scrolling-animation fade-right d1 hidden" data-filter=".cat-2">EC Band</li>
                     <li class="filter-button scrolling-animation fade-right" data-filter=".cat-3">Out & About</li>
                 </ul>
             </div>
