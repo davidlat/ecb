@@ -532,7 +532,7 @@
                 <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
                     <div class="col-xs-5 col-sm-4 col-md-3" style="">
                         <div class="content-box content-box-sm">
-                            <img src="http://www.eddircarey.com/jdp.jpg" />
+                            <img src="http://www.eddiecarey.com/jdp.jpg" />
                         </div>
                     </div>
                     <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="">
