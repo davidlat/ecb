@@ -25,8 +25,8 @@
                                         Dungannon<br />
                                         Co. Tyrone<br />
                                         BT71 6LH<br />
-                                        Tel:                            UK - 028 8772 5951 or 07884 033323 / 07751 485835
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ROI - +4428 8772 5951 or +447884 033323
+                                        Tel -                            UK: 028 8772 5951 or 07884 033323 / 07751 485835<br />
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ROI: +4428 8772 5951 or +447884 033323
                                         
                                         </p>
 
