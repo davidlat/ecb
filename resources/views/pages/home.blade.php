@@ -252,7 +252,6 @@
                             <span class="text-uppercase">Regency Hotel</span> 
                              <em class="text-gray hidden-sm">Dublin</em>
                         </div>
-
                         <div class="col-xs-5 col-sm-4 col-md-3">
                             &nbsp;
                         </div>
@@ -260,6 +259,45 @@
                             <font style='font-size:0.8em;'>Saturday  Dance</font>
                         </div>    
                     </div>
+                    
+                    
+                    <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
+                                <p class="mb-0 text-center">01/09/2016</p>
+                            </div>
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase"> Red Cow Moran's Hotel</span> 
+                             <em class="text-gray hidden-sm">Dublin</em>
+                        </div>
+                        <div class="col-xs-5 col-sm-4 col-md-3">
+                            &nbsp;
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <font style='font-size:0.8em;'>Thursday night at the Red Cow</font>
+                        </div>    
+                    </div>
+                    
+                    
+                    <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
+                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
+                            <div class="content-box content-box-sm">
+                                <p class="mb-0 text-center">03/09/2016</p>
+                            </div>
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <span class="text-uppercase">Du Pont Club</span> 
+                             <em class="text-gray hidden-sm">Derry</em>
+                        </div>
+                        <div class="col-xs-5 col-sm-4 col-md-3">
+                            &nbsp;
+                        </div>
+                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
+                            <font style='font-size:0.8em;'>Saturday night dance at the Du Pont Club</font>
+                        </div>    
+                    </div>
+                    
                     
                     
                     
