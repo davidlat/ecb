@@ -185,23 +185,6 @@
 
 
 
-                    <div class="row mb-20 scrolling-animation fade-left d1" style="padding: 10px;font-size:20px;">
-                        <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
-                            <div class="content-box content-box-sm">
-                                <p class="mb-0 text-center">August 2016</p>
-                            </div>
-                        </div>
-                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <span class="text-uppercase">Harvest & Country Festival</span> 
-                             <em class="text-gray hidden-sm">- Thurles</em>
-                        </div>
-                        <div class="col-xs-5 col-sm-4 col-md-3">
-                            &nbsp;
-                        </div>
-                        <div class="content-box content-box-sm col-xs-7 col-sm-8 col-md-9" style="border-bottom: 2px solid #2898AC;border-left: 4px solid #2898AC;">
-                            <font style='font-size:0.8em;'>More information <a style='color:#2898AC;' href="https://www.facebook.com/ThurlesHarvestFestival/posts/610487292444917" target="_blank">here</a>.</font>
-                        </div>    
-                    </div>
 
                     <div class="row mb-20 scrolling-animation fade-left d2" style="padding: 10px;font-size:20px;">
                         <div class="col-xs-5 col-sm-4 col-md-3 bg-color" style="border-bottom: 2px solid #2898AC;">
